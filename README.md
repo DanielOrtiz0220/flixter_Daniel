@@ -40,7 +40,7 @@ Deployed Application (optional): [Flixster Deployed Site] https://danielortiz022
 
 ### Walkthrough Video
 
-<iframe src="https://giphy.com/embed/XxrXwY43gzsjXZ3lmR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XxrXwY43gzsjXZ3lmR">via GIPHY</a></p>
+![image](https://user-images.githubusercontent.com/42874497/174511087-19582cdf-71b0-4b0f-8e7e-7f38b0e4dc36.png)
 
 ### Reflection
 
